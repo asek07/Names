@@ -1,4 +1,3 @@
 pmcd - Peter
 yourName - YourName
-asek - Andy
-Changes have been made here.
+New changes - removed old ones.
